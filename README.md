@@ -1,9 +1,9 @@
-- 👋 Hi, I’m YogeshKumar
-- 👀 I’m interested in web development
-- 🌱 I’m Self-taught programmer
+- 👋 Hi Everybody, I’m YogeshKumar
+- 👀 Looking world via Internet
+- 🌱 Self-taught Developer
 - 📫 How to reach me ...
 - 😄 Pronouns: Yogi
-- ⚡ Fun fact: Using the internet to feed my curiosity
+- ⚡ Fun fact: Using the internet for feed my curiosity
 
 <!---
 Yogesh-yo01/Yogesh-yo01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
